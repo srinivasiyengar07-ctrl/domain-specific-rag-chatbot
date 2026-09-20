@@ -65,3 +65,9 @@ domain_rag_chatbot/
 ├── vector_store/
 │
 └── tests/
+
+## GitHub Repository
+
+The complete source code for this project is available on GitHub:
+
+https://github.com/srinivasiyengar07-ctrl/domain-specific-rag-chatbot
